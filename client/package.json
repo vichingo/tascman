@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "modern-rcon": "^1.0.3",
+    "npm": "^6.3.0"
+  }
+}
